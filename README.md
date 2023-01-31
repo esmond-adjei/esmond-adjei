@@ -6,17 +6,17 @@ I'm Esmond Adjei<br>
 
 <hr>
 
-<div style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
+<p style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
 <a href="https://www.facebook.com/xmon.jei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/esmond-adjei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xmon.jei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdul-rahman-tahiru-485a00216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/esmond-adjei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</div>
+</p>
 <br>
 
 Welcome to my GitHub profile! I am a software developer with experience in `Python`, `JavaScript`, `C` and `C++`. I am passionate about using technology to solve problems and make a positive impact in the world.
 
 ## Projects
 
-<div style="display:flex; flex-wrap: wrap">
+<p style="display:flex; flex-wrap: wrap">
 
 <a style="margin: 7px" href="https://github.com/esmond-adjei/web-scraper"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=web-scraper"></a>
 
@@ -26,39 +26,39 @@ Welcome to my GitHub profile! I am a software developer with experience in `Pyth
 
 <a style="margin: 7px" href="https://github.com/esmond-adjei/coding-workout"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=coding-workout"></a>
 
-</div>
+</p>
 
 ### Languages
 
-<div style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
+<p style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</div>
+</p>
 
 ### Frameworks
 
-<div style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
+<p style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.django.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</div>
+</p>
 
 ### Tools
 
-<div style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
+<p style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</div>
+</p>
 
 ### Socials
 
-<div style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
+<p style="border-radius: 5px; background-color: #333; padding: 10px; display:flex; justify-content: space-evenly; align-items: center">
 <a href="https://www.facebook.com/xmon.jei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/esmond-adjei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xmon.jei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdul-rahman-tahiru-485a00216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/esmond-adjei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</div>
+</p>
 
 ### My GitHub Stats
 
