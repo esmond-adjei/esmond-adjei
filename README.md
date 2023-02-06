@@ -9,8 +9,10 @@
 </p>
 
 <hr/>
+I'm Esmond Adjei, a coding enthusiast and future software developer. Currently honing my skills in programming and product development, I'm open to collaborate on exciting projects.
+My GitHub account showcases my coding journey so far, featuring a range of projects from beginner-level to more complex challenges. Think of it as a digital scrapbook of my growth as a coder. Join me on this journey and let's see where code can take us.
 
-Welcome to my GitHub profile! I am a software developer with experience in `Python`, `JavaScript`, `C` and `C++`. I am passionate about using technology to solve problems and make a positive impact in the world.
+<br/>
 
 ## Projects
 
