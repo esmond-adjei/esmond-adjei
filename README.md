@@ -14,16 +14,24 @@ Welcome to my GitHub profile! I am a software developer with experience in `Pyth
 
 ## Projects
 
-<p>
-<a href="https://github.com/esmond-adjei/web-scraper"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=web-scraper"></a>
-
-<a href="https://github.com/esmond-adjei/Bank-Administration-App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=Bank-Administration-App"></a>
-
-<a href="https://github.com/esmond-adjei/react-todo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=react-todo"></a>
-
-<a href="https://github.com/esmond-adjei/coding-workout"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=coding-workout"></a>
-
-</p>
+<table>
+  <tr>
+    <td valign="top">
+    <a href="https://github.com/esmond-adjei/web-scraper"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=web-scraper"></a>
+    </td>
+    <td valign="top">
+    <a href="https://github.com/esmond-adjei/Bank-Administration-App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=Bank-Administration-App"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+    <a href="https://github.com/esmond-adjei/coding-workout"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=coding-workout"></a>
+    </td>
+    <td valign="top">
+    <a href="https://github.com/esmond-adjei/react-todo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esmond-adjei&repo=react-todo"></a>
+    </td>
+  </tr>
+</table>
 
 ## Languages
 
@@ -58,9 +66,9 @@ Welcome to my GitHub profile! I am a software developer with experience in `Pyth
 
 <a href="http://www.github.com/esmond-adjei"><img src="https://github-readme-stats.vercel.app/api?username=esmond-adjei&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&show_icons=true" alt="esmond-adjei's GitHub stats" /></a>
 
-<a href="http://www.github.com/esmond-adjei"><img src="https://github-readme-streak-stats.herokuapp.com/?user=esmond-adjei&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+<a href="https://github.com/esmond-adjei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmond-adjei&layout=compact&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=151515"/>
+</a>
 
-<a href="https://github.com/esmond-adjei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmond-adjei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br>
 
 ---
