@@ -1,3 +1,3 @@
 Cooking something interesting...
 
-![walter white](../walter.gif)
+![walter white](https://i.imgflip.com/a5ddgy.gif)
